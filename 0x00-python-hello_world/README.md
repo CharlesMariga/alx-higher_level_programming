@@ -12,4 +12,4 @@
 - [10-check_cycle.c](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/10-check_cycle.c) - A function in C that checks if a singly linked list has a cycle in it.
 - [100-write.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/100-write.py) - Prints a string using the write method from the sys module.
 - [101-compile](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/101-compile) - A script that compiles a python script file.
-- [102-magic_calculation.py]() - Disassemblying python bytecode.
+- [102-magic_calculation.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/102-magic_calculation.py) - Disassemblying python bytecode.
