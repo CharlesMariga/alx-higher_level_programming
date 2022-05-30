@@ -12,16 +12,15 @@
  */
 int check_cycle(listint_t *list)
 {
-	listint_t *current = list;
-	listint_t *head = list;
-	int i = 0;
+	listint_t *current;
 
+	current = list;
 	while (current != NULL)
 	{
-		if (current == head)
-			i++;
-		if (i == 2)
+		if (list == current->next)
+		{
 			return (1);
+		}
 
 		current = current->next;
 	}
