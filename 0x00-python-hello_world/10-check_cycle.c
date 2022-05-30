@@ -12,25 +12,20 @@
  */
 int check_cycle(listint_t *list)
 {
-	listint_t *current, *checker;
-	int i = 0, j = 0;
+	listint_t *prev;
+	listint_t *current;
 
+	prev = list;
 	current = list;
-	while (current != NULL)
+	while (prev != NULL && current != NULL)
 	{
-		j = 0;
-		checker = list;
-		while (i < j)
+		prev = prev->next;
+		current = current->next->next;
+
+		if (prev == current || current == list)
 		{
-			if (i != j && current == checker)
-			{
-				return (1);
-			}
-			checker = checker->next;
-			j++;
+			return (1);
 		}
-		current = current->next;
-		i++;
 	}
 
 	return (0);
