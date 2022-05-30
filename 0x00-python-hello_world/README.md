@@ -8,4 +8,5 @@
 - [6-concat.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/6-concat.py) - Concatenates string.
 - [7-edges.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/7-edges.py) - Copy - Cut - Paste
 - [8-concat_edges.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/8-concat_edges.py) - Creating a new string.
-- [9-easter_egg.py]() - Prints “The Zen of Python”, by TimPeters, followed by a new line.
+- [9-easter_egg.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/9-easter_egg.py) - Prints “The Zen of Python”, by TimPeters, followed by a new line.
+- [10-check_cycle.c]() - A function in C that checks if a singly linked list has a cycle in it.
