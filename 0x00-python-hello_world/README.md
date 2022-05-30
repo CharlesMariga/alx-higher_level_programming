@@ -7,4 +7,4 @@
 - [5-print_string.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/5-print_string.py) - Prints a string 5 times followed by its first 9 characters.
 - [6-concat.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/6-concat.py) - Concatenates string.
 - [7-edges.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/7-edges.py) - Copy - Cut - Paste
-- [8-concat_edges.py]() -
+- [8-concat_edges.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/8-concat_edges.py) - Creating a new string.
