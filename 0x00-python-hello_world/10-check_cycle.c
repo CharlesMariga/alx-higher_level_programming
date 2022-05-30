@@ -12,20 +12,26 @@
  */
 int check_cycle(listint_t *list)
 {
-	listint_t *current = malloc(sizeof(listint_t));
+	listint_t *current, *checker;
+	int i = 0, j = 0;
 
 	current = list;
 	while (current != NULL)
 	{
-		if (current->next == list)
+		j = 0;
+		checker = list;
+		while (i < j)
 		{
-			free(current);
-			return (1);
+			if (i != j && current == checker)
+			{
+				return (1);
+			}
+			checker = checker->next;
+			j++;
 		}
-
 		current = current->next;
+		i++;
 	}
-	free(current);
 
 	return (0);
 }
