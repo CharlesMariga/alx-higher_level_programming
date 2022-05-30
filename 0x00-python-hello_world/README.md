@@ -10,4 +10,5 @@
 - [8-concat_edges.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/8-concat_edges.py) - Creating a new string.
 - [9-easter_egg.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/9-easter_egg.py) - Prints “The Zen of Python”, by TimPeters, followed by a new line.
 - [10-check_cycle.c](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/10-check_cycle.c) - A function in C that checks if a singly linked list has a cycle in it.
-- [100-write.py]() - Prints a string using the write method from the sys module
+- [100-write.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x00-python-hello_world/100-write.py) - Prints a string using the write method from the sys module.
+- [101-compile]() - A script that compiles a python script file.
