@@ -16,3 +16,4 @@
 - [12-fizzbuzz.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/12-fizzbuzz.py) - Inserts a number in sorted singly linked list.
 - [100-print_tebahpla.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/100-print_tebahpla.py) - Prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
 - [101-remove_char_at.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/101-remove_char_at.py) - Creates a copy of a string removing the character at the position **n**.
+- [102-magic_calculation.py]() - Displays python bytecode.
