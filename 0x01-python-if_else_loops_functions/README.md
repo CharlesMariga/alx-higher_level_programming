@@ -12,4 +12,5 @@
 - [7-islower.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/7-islower.py) - Checks for lowercase characters.
 - [8-uppercase.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/8-uppercase.py) - Prints a string in uppercase followed by a new line.
 - [9-print_last_digit.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/9-print_last_digit.py) - Prints the last digit of a number.
-- [10-add.py]() - A function that adds two numbers and returns the result.
+- [10-add.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/10-add.py) - A function that adds two numbers and returns the result.
+- [11-pow.py]() - Computes **a** to the power of **b** and returns the value.
