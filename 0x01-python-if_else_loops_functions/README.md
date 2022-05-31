@@ -9,3 +9,4 @@
 - [5-print_comb2.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/5-print_comb2.py) -
   Prints two digits number from 0 to 98
 - [6-print_comb3.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/6-print_comb3.py) - Prints a unique combination of two digit number.
+- [7-islower.py]() - Checks for lowercase characters.
