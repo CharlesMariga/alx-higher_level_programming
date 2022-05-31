@@ -11,4 +11,5 @@
 - [6-print_comb3.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/6-print_comb3.py) - Prints a unique combination of two digit number.
 - [7-islower.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/7-islower.py) - Checks for lowercase characters.
 - [8-uppercase.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/8-uppercase.py) - Prints a string in uppercase followed by a new line.
-- [9-print_last_digit.py]() - Prints the last digit of a number.
+- [9-print_last_digit.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/9-print_last_digit.py) - Prints the last digit of a number.
+- [10-add.py]() - A function that adds two numbers and returns the result.
