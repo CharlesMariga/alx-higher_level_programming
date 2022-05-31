@@ -13,4 +13,5 @@
 - [9-print_last_digit.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/9-print_last_digit.py) - Prints the last digit of a number.
 - [10-add.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/10-add.py) - A function that adds two numbers and returns the result.
 - [11-pow.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/11-pow.py) - Computes **a** to the power of **b** and returns the value.
-- [12-fizzbuzz.py]() -
+- [12-fizzbuzz.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/12-fizzbuzz.py) - Inserts a number in sorted singly linked list.
+- [100-print_tebahpla.py]() - Prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
