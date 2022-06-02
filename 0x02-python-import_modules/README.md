@@ -4,4 +4,4 @@
 - [1-calculation.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x02-python-import_modules/1-calculation.py) - Imports functions from the file **calculator_1.py**, does some Maths, and prints the result.
 - [2-args.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x02-python-import_modules/2-args.py) - A program that prints the number of and the list of its arguments.
 - [3-infinite_add.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x02-python-import_modules/3-infinite_add.py) - A program that prints the result of the addition of all arguments.
-- [4-hidden_discovery.py]() - A program that prints all the names defined by the compiled module **hidden_4.pyc**.
+- [4-hidden_discovery.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x02-python-import_modules/4-hidden_discovery.py) - A program that prints all the names defined by the compiled module **hidden_4.pyc**.
