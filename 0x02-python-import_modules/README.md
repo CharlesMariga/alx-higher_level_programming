@@ -5,3 +5,4 @@
 - [2-args.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x02-python-import_modules/2-args.py) - A program that prints the number of and the list of its arguments.
 - [3-infinite_add.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x02-python-import_modules/3-infinite_add.py) - A program that prints the result of the addition of all arguments.
 - [4-hidden_discovery.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x02-python-import_modules/4-hidden_discovery.py) - A program that prints all the names defined by the compiled module **hidden_4.pyc**.
+- [variable_load_5.py]() - A program that imports the variable **a** from the file **variable_load_5.py** and prints its value.
