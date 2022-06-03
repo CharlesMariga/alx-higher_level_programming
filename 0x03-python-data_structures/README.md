@@ -8,4 +8,5 @@
 - [5-no_c.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/5-no_c.py) - A function that removes all characters **c** and **C** from a string.
 - [6-print_matrix_integer.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/6-print_matrix_integer.py) - A function that prints a matrix of integers.
 - [7-add_tuple.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/7-add_tuple.py) - A function that adds to tuples.
-- [8-multiple_returns.py]() - A function that returns a tuple with the length of a string and its first character.
+- [8-multiple_returns.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/8-multiple_returns.py) - A function that returns a tuple with the length of a string and its first character.
+- [9-max_integer.py]() - A function that finds the biggest integer of a list.
