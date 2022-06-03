@@ -11,4 +11,5 @@
 - [8-multiple_returns.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/8-multiple_returns.py) - A function that returns a tuple with the length of a string and its first character.
 - [9-max_integer.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/9-max_integer.py) - A function that finds the biggest integer of a list.
 - [10-divisible_by_2.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/10-divisible_by_2.py) - A function that finds all multiples of 2 in a list.
-- [11-delete_at.py]() - A function that deletes the item at a specific position in a list.
+- [11-delete_at.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/11-delete_at.py) - A function that deletes the item at a specific position in a list.
+- [12-switch.py]() - Switches value of **a** and **b**.
