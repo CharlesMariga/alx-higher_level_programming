@@ -13,3 +13,5 @@
 - [10-divisible_by_2.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/10-divisible_by_2.py) - A function that finds all multiples of 2 in a list.
 - [11-delete_at.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/11-delete_at.py) - A function that deletes the item at a specific position in a list.
 - [12-switch.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/12-switch.py) - Switches value of **a** and **b**.
+- [13-is_palindrome.c](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x03-python-data_structures/13-is_palindrome.c) - A function in C that checks if a singly linked list is a palindrome.
+- [100-print_python_list_info.c]() - A function that prints some basic info about Python Lists.
