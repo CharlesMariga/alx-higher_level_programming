@@ -1,7 +1,6 @@
 #include "lists.h"
 #include <stddef.h>
 #include <stdlib.h>
-#include <stdio.h>
 
 /**
  * is_palindrome - Linked list palindrome
@@ -15,34 +14,41 @@
 int is_palindrome(listint_t **head)
 {
 	listint_t *reversed_list;
-	listint_t *prev;
 	listint_t *current;
-	listint_t *temp;
+	listint_t *new_node;
+	listint_t *new_prev_node;
+	int counter = 0;
 
 	if (*head == NULL)
 		return (1);
 
-	reversed_list = malloc(sizeof(listint_t));
-	if (reversed_list == NULL)
-		return (0);
-
-	prev = NULL;
+	new_prev_node = NULL;
 	current = *head;
 	while (current != NULL)
 	{
-		temp = current->next;
-		current->next = prev;
-		prev = current;
-		current = temp;
-		}
-	reversed_list = prev;
+		new_node = malloc(sizeof(listint_t));
+		if (new_node == NULL)
+			return (0);
 
-	current = reversed_list;
+		if (counter == 0) {
+			new_node->n = current->n;
+			new_node->next = NULL;
+		} else {
+			new_node->n = current->n;
+			new_node->next = new_prev_node;
+		}
+		new_prev_node = new_node;
+		current = current->next;
+		counter++;
+	}
+	reversed_list = new_prev_node;
+
+	current = *head;
 	while (current != NULL)
 	{
 		if (current->n != reversed_list->n)
 		{
-			free(reversed_list);
+			free(new_node);
 			return (0);
 		}
 		current = current->next;
