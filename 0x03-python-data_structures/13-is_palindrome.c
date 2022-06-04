@@ -13,48 +13,43 @@
  */
 int is_palindrome(listint_t **head)
 {
-	listint_t *reversed_list;
 	listint_t *current;
-	listint_t *new_node;
-	listint_t *new_prev_node;
 	int counter = 0;
+	int *p;
+	int i;
 
-	if (*head == NULL)
-		return (1);
-
-	new_prev_node = NULL;
 	current = *head;
 	while (current != NULL)
 	{
-		new_node = malloc(sizeof(listint_t));
-		if (new_node == NULL)
-			return (0);
-
-		if (counter == 0) {
-			new_node->n = current->n;
-			new_node->next = NULL;
-		} else {
-			new_node->n = current->n;
-			new_node->next = new_prev_node;
-		}
-		new_prev_node = new_node;
-		current = current->next;
 		counter++;
+		current = current->next;
 	}
-	reversed_list = new_prev_node;
+
+	p = malloc(sizeof(int) * counter);
+	if (p == NULL)
+		return (0);
 
 	current = *head;
+	i = 0;
 	while (current != NULL)
 	{
-		if (current->n != reversed_list->n)
+		*(p + counter - 1 - i) = current->n;
+		current = current->next;
+		i++;
+	}
+
+	i = 0;
+	current = *head;
+	while (i < counter)
+	{
+		if (current->n != *(p + i))
 		{
-			free(new_node);
+			free(p);
 			return (0);
 		}
 		current = current->next;
-		reversed_list = reversed_list->next;
+		i++;
 	}
-	free(reversed_list);
 
 	return (1);
 }
