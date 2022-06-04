@@ -18,6 +18,11 @@ int is_palindrome(listint_t **head)
 	int *p;
 	int i;
 
+	if ((!*head) || (!head))
+	{
+		return (1);
+	}
+
 	current = *head;
 	while (current != NULL)
 	{
