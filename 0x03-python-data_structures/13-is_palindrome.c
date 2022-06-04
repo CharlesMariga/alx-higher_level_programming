@@ -44,7 +44,6 @@ int is_palindrome(listint_t **head)
 	{
 		if (current->n != *(p + i))
 		{
-			free(p);
 			return (0);
 		}
 		current = current->next;
