@@ -10,4 +10,5 @@
 - [7-update_dictionary.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/7-update_dictionary.py) - A function that replaces or adds key/value in a dictionary.
 - [8-simple_delete.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/8-simple_delete.py) - A function that deletes a key in a dictionary.
 - [9-multiply_by_2.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/9-multiply_by_2.py) - A function that returns a new dictionary with all values multiplied by 2.
-- [10-best_score.py]() - A function that returns a key with the biggest integer value.
+- [10-best_score.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/10-best_score.py) - A function that returns a key with the biggest integer value.
+- []() -
