@@ -6,4 +6,5 @@
 - [3-safe_print_division.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x05-python-exceptions/3-safe_print_division.py) - A function that divides 2 integers and prints the result.
 - [4-list_division.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x05-python-exceptions/4-list_division.py) - A function that divides element by element 2 lists.
 - [5-raise_exception.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x05-python-exceptions/5-raise_exception.py) - A fuction that raises a type exception.
-- [6-raise_exception_msg.py]() - A function that raises a name exception with a message.
+- [6-raise_exception_msg.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x05-python-exceptions/6-raise_exception_msg.py) - A function that raises a name exception with a message.
+- [100-safe_print_integer_err.py]() - A function that prints an integers.
