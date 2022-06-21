@@ -9,3 +9,4 @@
 - [6-raise_exception_msg.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x05-python-exceptions/6-raise_exception_msg.py) - A function that raises a name exception with a message.
 - [100-safe_print_integer_err.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x05-python-exceptions/100-safe_print_integer_err.py) - A function that prints an integers.
 - [101-safe_function.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x05-python-exceptions/101-safe_function.py) - A function that executes a function safely.
+- [102-magic_calculation.py]() - Python Bytecode.
