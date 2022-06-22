@@ -7,4 +7,4 @@
 - [4-square.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x06-python-classes/4-square.py) - A class **Square** that defines s square by: **(based on 3-square.py)**.
 - [5-square.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x06-python-classes/5-square.py) - A class **Square** that defines s square by: **(based on 4-square.py)**.
 - [6-square.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x06-python-classes/6-square.py) - A class **Square** that defines s square by: **(based on 5-square.py)**.
-- [100-singly_linked_list.py]() - A class Node that defines a node of a singly linked list
+- [100-singly_linked_list.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x06-python-classes/6-square.py) - A class Node that defines a node of a singly linked list
