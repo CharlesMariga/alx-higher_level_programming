@@ -40,7 +40,10 @@ class Square:
 
     @position.setter
     def position(self, value):
-        """Sets the position property"""
+        """Sets the position property
+        Args:
+            value (int): The new coordinates for the square.
+        """
         if (not isinstance(value, tuple) or
                 len != 2 or
                 not all(isinstance(num, int) for num in value) or
