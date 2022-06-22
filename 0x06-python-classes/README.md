@@ -10,4 +10,4 @@
 - [100-singly_linked_list.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x06-python-classes/100-singly_linked_list.py) - A class Node that defines a node of a singly linked list
 - [101-square.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x06-python-classes/101-square.py) - A class Square that defines a square by: **(based on 6-square.py)**.
 - [102-square.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x06-python-classes/102-square.py) - A class Square that defines a square by: **(based on 4-square.py)**.
-- [103-magic_class.py]() - A class **MagicClass** that does exactly the same as the following Python bytecode.
+- [103-magic_class.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x06-python-classes/103-magic_class.py) - A class **MagicClass** that does exactly the same as the following Python bytecode.
