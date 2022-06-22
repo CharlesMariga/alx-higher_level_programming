@@ -1,9 +1,10 @@
 #!/usr/bin/python3
-import math
 """Definition of the Magic Class"""
+import math
 
 
-class MagiClass:
+class MagicClass:
+    """Defines a circle"""
     def __init__(self, radius):
         """Initialization of the magic class
 
