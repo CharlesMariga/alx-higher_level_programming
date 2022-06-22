@@ -10,7 +10,7 @@ class Square:
 
         Args:
             size (int): The size of the new square.
-            position (tuple): Coordinates of the square
+            position (int, int): Coordinates of the new square
         """
         self.__size = size
         self.__position = position
@@ -38,6 +38,7 @@ class Square:
         self.__size = value
 
     def my_print(self):
+        """Prints a square"""
         if self.__size == 0:
             print()
         else:
