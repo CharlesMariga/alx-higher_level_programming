@@ -1,3 +1,3 @@
 # 0x06. Python - Classes and Objects
 
-- [0-square.py]() - An empty class **Square** that defines a square.
+- [0-square.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x06-python-classes/0-square.py) - An empty class **Square** that defines a square.
