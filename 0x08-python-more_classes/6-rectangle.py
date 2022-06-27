@@ -3,10 +3,11 @@
 
 
 class Rectangle:
+    """Declaration of the Rectangle class"""
     number_of_instances = 0
 
-    """Declaration of the Rectangle class"""
     def __init__(self, width=0, height=0):
+        """Initialization of the Rectangle instance"""
         if type(width) is not int:
             raise TypeError("width must be an integer")
         if width < 0:
