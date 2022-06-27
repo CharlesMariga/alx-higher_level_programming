@@ -10,4 +10,4 @@
 - [7-rectangle.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x08-python-more_classes/7-rectangle.py) - A class **Rectangle** that defines a rectangle by: (based on **6-rectangle.py**).
 - [8-rectangle.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x08-python-more_classes/8-rectangle.py) - A class **Rectangle** that defines a rectangle by: (based on **7-rectangle.py**).
 - [9-rectangle.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x08-python-more_classes/9-rectangle.py) - A class **Rectangle** that defines a rectangle by: (based on **8-rectangle.py**).
-- [101-nqueens.py]() - The N queens puzzle.
+- [101-nqueens.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x08-python-more_classes/101-nqueens.py) - The N queens puzzle.
