@@ -8,4 +8,4 @@
 - [0x05-python-exceptions](https://github.com/CharlesMariga/alx-higher_level_programming/tree/main/0x05-python-exceptions) - Python - Exceptions.
 - [0x06-python-classes](https://github.com/CharlesMariga/alx-higher_level_programming/tree/main/0x06-python-classes) - Python - Classes and Objects.
 - [0x08-python-more_classes](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x08-python-more_classes) - Python - More Classes and Objects.
-- [0x09-python-everything_is_object]() - Python - Everything is object
+- [0x09-python-everything_is_object](https://github.com/CharlesMariga/alx-higher_level_programming/tree/main/0x09-python-everything_is_object) - Python - Everything is object
