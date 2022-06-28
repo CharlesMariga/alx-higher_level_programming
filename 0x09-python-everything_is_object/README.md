@@ -17,4 +17,5 @@
 - [14-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/14-answer.txt) - List append.
 - [15-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/15-answer.txt) - List add.
 - [16-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/16-answer.txt) - Integer increment.
-- [17-answer.txt]() - List increment.
+- [17-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/17-answer.txt) - List increment.
+- [18-answer.txt]() - List assignment.
