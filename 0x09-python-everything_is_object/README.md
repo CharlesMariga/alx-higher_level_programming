@@ -14,4 +14,5 @@
 - [11-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/11-answer.txt) - And with a list, is it the same.
 - [12-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/12-answer.txt) - And with a list, is it really equal.
 - [13-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/13-answer.txt) - And with a list, is it really the same.
-- [14-answer.txt]() - List append.
+- [14-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/14-answer.txt) - List append.
+- [15-answer.txt]() - List add.
