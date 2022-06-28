@@ -9,4 +9,5 @@
 - [6-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/6-answer.txt) - Is equal?
 - [7-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/7-answer.txt) - Is the same
 - [8-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/8-answer.txt) - Is really equal.
-- [9-answer.txt]() - Is really the same.
+- [9-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/9-answer.txt) - Is really the same.
+- [10-answer.txt]() - And with a list, is it equal.
