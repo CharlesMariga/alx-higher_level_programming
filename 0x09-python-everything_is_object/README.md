@@ -20,4 +20,6 @@
 - [17-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/17-answer.txt) - List increment.
 - [18-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/18-answer.txt) - List assignment.
 - [19-copy_list.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/19-copy_list.py) - Copy a list object.
-- [20-answer.txt]() - Tuple or not?
+- [20-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/20-answer.txt) - Tuple or not?
+- [21-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/21-answer.txt) - Tuple or not?
+- []() -
