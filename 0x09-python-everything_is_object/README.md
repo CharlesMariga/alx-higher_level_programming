@@ -5,4 +5,5 @@
 - [2-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/2-answer.txt) - Pointing to the same object.
 - [3-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/3-answer.txt) - Pointing to the same object.
 - [4-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/4-answer.txt) - Pointing to the same object.
-- [5-answer.txt]() - Pointing to the same object.
+- [5-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/5-answer.txt) - Pointing to the same object.
+- [6-answer.txt]() - Is equal?
