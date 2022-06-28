@@ -27,4 +27,5 @@
 - [24-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/24-answer.txt) - Who am I?
 - [25-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/25-answer.txt) - Tuple or not.
 - [26-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/26-answer.txt) - Empty is not empty.
-- [27-answer.txt]() - Still the same?
+- [27-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/27-answer.txt) - Still the same?
+- []()
