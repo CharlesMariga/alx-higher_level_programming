@@ -29,3 +29,4 @@
 - [26-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/26-answer.txt) - Empty is not empty.
 - [27-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/27-answer.txt) - Still the same?
 - [28-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/28-answer.txt) - Same or not?
+- [100-magic_string.py]() - A function **magic_string()** that returns a string “BestSchool” n times the number of the iteration.
