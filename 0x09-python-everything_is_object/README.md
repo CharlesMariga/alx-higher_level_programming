@@ -39,3 +39,8 @@
 - [104-line4.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/104-line4.txt) - Os the int object pointed by **b** deleted?
 - [104-line5.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/104-line5.txt) - Int objects created by the execution of the last line of the script.
 - [105-line1.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/105-line1.txt) - Number of int objects that have been created before the execution of the second line of the script.
+- [106-line1.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/106-line1.txt) - Number of string objects created by the execution of the fist line of the script.
+- [106-line2.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/106-line2.txt) - Number of string objects created by the execution of the second line of the script.
+- [106-line3.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/106-line3.txt) - Is the string object **a** deleted?
+- [106-line4.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/106-line4.txt) - Is the string object **b** deleted?
+- [106-line5.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/106-line5.txt) - Number of strin objects created by the execution of the last line of the script.
