@@ -31,10 +31,11 @@
 - [28-answer.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/28-answer.txt) - Same or not?
 - [100-magic_string.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/100-magic_string.py) - A function **magic_string()** that returns a string “BestSchool” n times the number of the iteration.
 - [101-locked_class.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/101-locked_class.py) - A class **LockedClass** with no class or object attribute, that prevents the user from dynamically creating new instance attributes, except if the new instance attribute is called first_name.
-- [103-line1.txt]() - Int objects created by the execution of the first line of the script.
-- [103-line2.txt]() - Int objects created by the execution of the second line of the script.
-- [104-line1.txt]() - Int objects created by the execution of the first line of the script.
-- [104-line2.txt]() - Int objects created by the execution of the second line of the script.
-- [104-line3.txt]() - Is the int object pointed by **a** deleted?
-- [104-line4.txt]() - Os the int object pointed by **b** deleted?
-- [104-line5.txt]() - Int objects created by the execution of the last line of the script.
+- [103-line1.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/103-line1.txt) - Int objects created by the execution of the first line of the script.
+- [103-line2.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/103-line2.txt) - Int objects created by the execution of the second line of the script.
+- [104-line1.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/104-line1.txt) - Int objects created by the execution of the first line of the script.
+- [104-line2.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/104-line2.txt) - Int objects created by the execution of the second line of the script.
+- [104-line3.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/104-line3.txt) - Is the int object pointed by **a** deleted?
+- [104-line4.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/104-line4.txt) - Os the int object pointed by **b** deleted?
+- [104-line5.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/104-line5.txt) - Int objects created by the execution of the last line of the script.
+- [105-line1.txt](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x09-python-everything_is_object/105-line1.txt) - Number of int objects that have been created before the execution of the second line of the script.
