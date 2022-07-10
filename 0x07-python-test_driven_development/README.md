@@ -1,4 +1,6 @@
 # 0x07. Python - Test-driven development
 
 - [0-add_integer.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x07-python-test_driven_development/0-add_integer.py) - A function that adds 2 integers.
-- [2-matrix_divided.py]() - A function that divides all elements of a matrix.
+- [2-matrix_divided.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x07-python-test_driven_development/2-matrix_divided.py) - A function that divides all elements of a matrix.
+- [3-say_my_name.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x07-python-test_driven_development/3-say_my_name.py) - A function that prints My name is **<first name> <last name></last>**
+- [4-print_square.py]() - A function that prints a square with the character **#**.
