@@ -6,4 +6,7 @@
 - [4-print_square.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x07-python-test_driven_development/4-print_square.py) - A function that prints a square with the character **#**.
 - [5-text_indentation.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x07-python-test_driven_development/5-text_indentation.py) - A function that prints a text with 2 new lines after each of these characters: **.** **,** **?** and **:**
 - [6-max_integer_test.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x07-python-test_driven_development/6-max_integer.py) - Max integer unitest.
-- [100-matrix_mul.py]() - A function that multiplies 2 matrices:
+- [100-matrix_mul.py](https://github.com/CharlesMariga/alx-higher_level_programming/blob/main/0x07-python-test_driven_development/100-matrix_mul.py) - A function that multiplies 2 matrices:
+- [101-lazy_matrix_mul.py]() - A function that multiplies two matrixes using **Numpy**.
+- [102-python.c]() - A function that prints Python strings.
+-
